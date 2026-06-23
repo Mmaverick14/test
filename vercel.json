@@ -1,7 +1,7 @@
 {
   "version": 2,
   "buildCommand": "npm run build",
-  "public": false,
+  "public": true,
   "env": {
     "DISCORD_TOKEN": "MTUxOTEwMzAzMTQzMjQ1MDE4OA.GkzljR.d-swFATXEYI2Wd954v7_gq6DxYPp2iTvMBDS7U",
     "DISCORD_PUBLIC_KEY": "017a24cef739108e3fd9112c4ace99a1d937b8a8b94036c92697382c0d87cb90",
