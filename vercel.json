@@ -2,14 +2,14 @@
   "version": 2,
   "buildCommand": "npm run build",
   "functions": {
-    "api/interactions.js": {
+    "interactions.js": {
       "memory": 512,
       "maxDuration": 30
     }
   },
   "headers": [
     {
-      "source": "/api/interactions",
+      "source": "/interactions",
       "headers": [
         {
           "key": "Content-Type",
