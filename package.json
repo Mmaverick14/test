@@ -2,10 +2,10 @@
   "name": "fivem-faction-bot",
   "version": "1.0.0",
   "description": "Discord bot",
-  "main": "interactions.js",
+  "main": "api/interactions.js",
   "scripts": {
     "build": "echo 'No build required'",
-    "start": "node interactions.js"
+    "start": "node api/interactions.js"
   },
   "dependencies": {
     "discord-interactions": "^3.4.0",
