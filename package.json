@@ -1,12 +1,11 @@
 {
   "name": "fivem-faction-bot",
   "version": "1.0.0",
-  "description": "Discord bot pro spravu nelegalni frakce na FiveM serveru",
+  "description": "Discord bot",
   "main": "interactions.js",
   "scripts": {
-    "dev": "vercel dev",
     "build": "echo 'No build required'",
-    "start": "node api/interactions.js"
+    "start": "node interactions.js"
   },
   "dependencies": {
     "discord-interactions": "^3.4.0",
@@ -15,9 +14,6 @@
     "node-fetch": "^3.3.2",
     "tweetnacl": "^1.0.3",
     "dotenv": "^16.3.1"
-  },
-  "devDependencies": {
-    "vercel": "^34.0.0"
   },
   "engines": {
     "node": "24.x"
