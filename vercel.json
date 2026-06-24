@@ -9,7 +9,7 @@
   },
   "headers": [
     {
-      "source": "interactions",
+      "source": "/interactions",
       "headers": [
         {
           "key": "Content-Type",
